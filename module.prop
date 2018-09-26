@@ -1,7 +1,7 @@
-id=font-koruri-n
-name=Koruri Font
+id=font-koruri-mlny
+name=Koruri Font-mlny
 version=v06
 versionCode=6
-author=lindwurm,AndroPlus
-description=Koruri font patch for Japanese users.
+author=lindwurm,AndroPlus,malony
+description=Koruri font patch for Japanese users. Not replace Roboto.
 minMagisk=1700

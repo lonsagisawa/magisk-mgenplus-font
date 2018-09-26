@@ -1,8 +1,8 @@
 #### Koruri Font
 
 Koruri font patch for Japanese users.
-This also replaces Roboto to Open Sans because Koruri is mixed font of Open Sans and M+ FONTS.
-Only tested on Android 7.x Nougat ROM.
+~~This also replaces Roboto to Open Sans because Koruri is mixed font of Open Sans and M+ FONTS.~~
+Tested on Android 8.1 Oreo, and 9.0 Pie.
 
 #### NOTICE
 
