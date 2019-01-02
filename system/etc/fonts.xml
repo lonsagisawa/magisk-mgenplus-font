@@ -343,11 +343,11 @@
         <font weight="400" style="normal" index="3">NotoSansCJK-Regular.ttc</font>
     </family>
     <family lang="ja">
-        <font weight="300" style="normal">Koruri-Light.ttf</font>
-        <font weight="400" style="normal">Koruri-Regular.ttf</font>
-        <font weight="600" style="normal">Koruri-Semibold.ttf</font>
-        <font weight="700" style="normal">Koruri-Bold.ttf</font>
-        <font weight="800" style="normal">Koruri-Extrabold.ttf</font>
+        <font weight="300" style="normal">mgenplus-1cp-light.ttf</font>
+        <font weight="400" style="normal">mgenplus-1cp-regular.ttf</font>
+        <font weight="600" style="normal">mgenplus-1cp-medium.ttf</font>
+        <font weight="700" style="normal">mgenplus-1cp-bold.ttf</font>
+        <font weight="800" style="normal">mgenplus-1cp-heavy.ttf</font>
     </family>
     <family lang="ko">
         <font weight="400" style="normal" index="1">NotoSansCJK-Regular.ttc</font>

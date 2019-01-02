@@ -1,8 +1,7 @@
-#### Koruri Font
+#### Mgen+ Font
 
-Koruri font patch for Japanese users.
-~~This also replaces Roboto to Open Sans because Koruri is mixed font of Open Sans and M+ FONTS.~~
-Tested on Android 8.1 Oreo, and 9.0 Pie.
+Mgen+ font patch for Japanese users.
+Tested on Android 9.0 Pie. Should work on Android 8.x Oreo.
 
 #### NOTICE
 
@@ -10,25 +9,12 @@ Tested on Android 8.1 Oreo, and 9.0 Pie.
 
 #### Credit & Support
 
-* Author of Koruri - lindwurm (https://github.com/lindwurm)
-* Any issue or pull request is welcome at [GitHub](https://github.com/Magisk-Modules-Repo/magisk-module-koruri-font).
+* M+ Fonts (http://mplus-fonts.osdn.jp/)
+* Source Han Sans (https://github.com/adobe-fonts/source-han-sans/tree/release)
+* Mgen+ (http://jikasei.me/font/mgenplus/)
+* Any issue or pull request is welcome at [GitHub](https://github.com/mlny/magisk-mgenplus-font).
 
 ## Change log
 
-#### v06
-* Updated Koruri to 20180915
-
-#### v05
-* Updated template to 1700
-
-#### v04
-* Updated template to 1500
-
-#### v03
-* Fixed broken colon in lockscreen and ambient display clock
-
-#### v02
-* Changed template to 1400
-
-#### v01
-* Initial Release
+#### v01(Mgen+)
+Based on Koruri module v06. Replaced Koruri to Mgen+.

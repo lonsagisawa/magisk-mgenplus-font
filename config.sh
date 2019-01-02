@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "      Koruri Font Patch        "
+  ui_print "       Mgen+ Font Patch        "
   ui_print "*******************************"
 }
 
